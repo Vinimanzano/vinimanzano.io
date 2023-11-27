@@ -809,7 +809,7 @@ font-size: 1rem;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    transform: translateX(100%);
+    transform: translateX(110%);
     transition: transform 0.3s ease-in;
   }
   .nav-list li {
@@ -822,7 +822,7 @@ font-size: 1rem;
 }
 
 .nav-list.active {
-  transform: translateX(0);
+  transform: translateX(10%);
 }
 
 @keyframes navLinkFade {
