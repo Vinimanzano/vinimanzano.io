@@ -809,4 +809,10 @@ footer p{
   font-size: 0.5rem;
 }
 
-} 
+.code{
+  margin-top: 65%;
+  width: 110px;
+  height: 110px;
+}
+
+}
